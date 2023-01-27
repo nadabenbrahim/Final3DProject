@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 7cf948ded4be4604aa1ef57b53a7d512
+  - enabled: 1
+    path: Assets/Scenes/SolarSystem.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/QuizScenes/Question1.unity
+    guid: 72e8c34a25a83af4591c0341153eb048
+  - enabled: 1
+    path: Assets/Scenes/QuizScenes/Answer1.unity
+    guid: 9c3e29d55d3c72849a5240a5ed582790
+  - enabled: 1
+    path: Assets/Scenes/QuizScenes/Question2.unity
+    guid: b7f28fd172447b542becbc9d314374e2
+  - enabled: 1
+    path: Assets/Scenes/QuizScenes/Answer2.unity
+    guid: df9516f3fe49645418b8b7892da5be14
+  - enabled: 1
+    path: Assets/Scenes/QuizScenes/Question3.unity
+    guid: 8a27cefb714b8954592a9a864cc9bcae
+  - enabled: 1
+    path: Assets/Scenes/QuizScenes/Answer3.unity
+    guid: cc85e0e190d9b9948838d769dc9ea67b
+  - enabled: 1
+    path: Assets/Scenes/QuizScenes/Question4.unity
+    guid: 2c4f98fbcef27b64b99f2892abb51f03
+  - enabled: 1
+    path: Assets/Scenes/QuizScenes/Answer4.unity
+    guid: eacce282f14be8e4bbfb234bcb67a257
+  - enabled: 1
+    path: Assets/Scenes/QuizScenes/Question5.unity
+    guid: b629f9db68f413c4e90537b90f2a514d
+  - enabled: 1
+    path: Assets/Scenes/QuizScenes/Answer5.unity
+    guid: 71bafe8e1d6a3284585847e421b71205
+  - enabled: 1
+    path: Assets/Scenes/QuizScenes/Scores3.unity
+    guid: 560abe077937dec4eab4f4aba447604d
+  - enabled: 1
+    path: Assets/Scenes/QuizScenes/Scores5.unity
+    guid: 49ad4cac935ccea469d27f51b479fa99
+  - enabled: 1
+    path: Assets/Scenes/QuizScenes/Scores1.unity
+    guid: 584e847bb549e8c4daf442ca47040849
+  - enabled: 1
+    path: Assets/Scenes/QuizScenes/Scores4.unity
+    guid: 37b3da3334b6c434c8f62c955db9955d
+  - enabled: 1
+    path: Assets/Scenes/QuizScenes/Scores0.unity
+    guid: 4f068d6d0a7ef184faeb5643a9b2c6dd
+  - enabled: 1
+    path: Assets/Scenes/QuizScenes/Scores2.unity
+    guid: 724f9d6217dd76f43998be2aaca1f4f9
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e30f1efb84a6ecc41a73d685ff02cbf3, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: cbd95b548d270264abae7adb3d301e67, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7fdab949b71f7b94191f2882b60eccb4, type: 2}
