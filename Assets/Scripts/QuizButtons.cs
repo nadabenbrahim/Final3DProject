@@ -32,7 +32,14 @@ public class QuizButtons : MonoBehaviour
     {
         SceneManager.LoadScene("Question5");
     }
-
+   public void returnToMenu()
+    {
+        SceneManager.LoadScene("SecondMenu");
+    }
+    public void returnToPlanet()
+    {
+        SceneManager.LoadScene("SolarSystem");
+    }
     //question 1 options
     public void q1_a()
     {
@@ -195,7 +202,7 @@ public class QuizButtons : MonoBehaviour
     public void PlayQuiz()
     {
 
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+        SceneManager.LoadScene("question1");
 
     }
 
